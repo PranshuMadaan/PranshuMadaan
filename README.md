@@ -14,15 +14,17 @@ I'm a Computer Engineering student passionate about building projects and explor
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
+### 💻 Languages
+`Python` • `C++` • `JavaScript`
 
-`Python` • `C++` • `Git` • `GitHub`
+### ⚙️ Technologies & Frameworks
+`Node.js` • `Electron.js` • `TensorFlow` • `OpenCV` • `Streamlit`
 
-**Exploring**
+### 🔧 Tools
+`Git` • `GitHub` • `Orange Data Mining`
 
-`Machine Learning` • `Computer Vision` • `TensorFlow` • `OpenCV`
-
----
+### 🌱 Currently Exploring
+`Data Structures & Algorithms` • `Machine Learning` • `Computer Vision`
 
 ## 🚀 Featured Projects
 
