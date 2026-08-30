@@ -37,6 +37,9 @@ A machine learning project focused on predicting food waste.
 ### 😊 EmoDet
 Real-time facial expression detection using AI and Computer Vision.
 
+### 🤖 JARVIS
+Just A Rather Very Intelligent System
+
 ---
 
 ## 📚 Currently Learning
